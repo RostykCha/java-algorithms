@@ -1,5 +1,3 @@
-package org.example;
-
 import static interview_questions.IsPalindrome.isPalindrome;
 import static interview_questions.ReverseString.reverse;
 
