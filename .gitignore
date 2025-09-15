@@ -27,3 +27,13 @@ replay_pid*
 /.idea/
 /src/gradle/
 /.idea/
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/java-algorithms.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/.gitignore
+/.idea/modules/
+/.idea/libraries/
