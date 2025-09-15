@@ -39,3 +39,5 @@ replay_pid*
 /.idea/libraries/
 /src/gradlew
 /src/gradlew.bat
+/.idea/
+/.idea/modules/
